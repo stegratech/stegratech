@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Emoji cheat sheet:
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
+
+:ghost: This should be a ghost

@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <!-- Emoji cheat sheet:
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
-[:ballot_box_with_check:Shared Files](https://github.com/stegratech/shared){:target="_blank"} - The main shared files repo.
+[:ballot_box_with_check:Shared Files](https://github.com/stegratech/shared) - The main shared files repo.
 
 

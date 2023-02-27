@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 <!-- Emoji cheat sheet:
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
-:ghost: This should be a ghost
+[Shared Files](https://github.com/stegratech/shared) - The main shared files repo.
+
+

@@ -20,5 +20,3 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
 ## :rocket: Shared files and public repos
 - [Shared file repo](https://github.com/stegratech/shared) - The main shared files repo.
-
-
